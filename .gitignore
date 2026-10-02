@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Temporary files written by the Godot editor
+*.tmp
+
+# Exports
+export/
